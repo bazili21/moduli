@@ -9,3 +9,4 @@ with open('j.pikle', 'rb') as f:
     result = pickle.load(f)
 print(result)
 print(type(result))
+print('de la lectii')
